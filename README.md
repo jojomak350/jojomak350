@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'am Joseph Makram</h1>
-<h3 align="center">Software Engineer | Backend Developer</h3>
+<h3 align="center">Software Engineer | Backend Engineer</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojomak13&theme=flat&column=3&margin-w=15&margin-h=15" alt="Joseph Makram" /></a>
